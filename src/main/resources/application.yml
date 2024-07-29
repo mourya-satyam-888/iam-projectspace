@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: iam
+
+server:
+  servlet:
+    context-path: /identity
+  port: 8100
